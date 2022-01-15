@@ -347,9 +347,6 @@ html {
           box-sizing: border-box;
 }
 
-*,
-*::before,
-*::after
 body {
   height: 100%;
   display: -webkit-box;
@@ -362,7 +359,6 @@ body {
   font-family: "Arial" , "sans-serif";
   max-width: 0;
   padding: 0;
-  background-color: red;
 }
 
 img {
